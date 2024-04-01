@@ -1,11 +1,11 @@
-# (Project Name)
+# (CODE CHALLENGE 2)
 
 #### Date, 30/03/2024
 
 #### By Edna Kiruai
 
 ## Description
-It's a webpage that shows different types of triangles and what they look like.
+It's a webpage that shows solutions to different questions.
 
 ## Installation
 You use git clone to be able to download the documents in the GitHub
@@ -29,7 +29,7 @@ Github
 Javascript
 
 ## Support and contact details
-github.com/edna-kiruai7
+github.com/ednakiruai7
 
 ### License
 The content of this site is licensed under the MIT license
